@@ -1,0 +1,36 @@
+body {
+    font-family: Ubuntu;
+}
+.menu {
+    margin: 0 auto;
+    padding: 10%;
+}
+.admin-menu {
+    height: 100%;
+    width:20%;
+}
+.button {
+    float: right;
+    margin: 0 5px;
+    list-style-type: none;
+}
+.content {
+    padding: 0 15%;
+    margin: 40px 0;
+}
+.list {
+    margin: 0 20px 100px 0;
+}
+.photo {
+    background-color: #000000;
+}
+.img {
+    margin: 0 auto;
+    display: block;
+}
+.footer {
+    min-height: 200px;
+    background-color: #31708f;
+}
+.copy {
+    margin-top:40px;
